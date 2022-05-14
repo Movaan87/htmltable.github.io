@@ -1,0 +1,35 @@
+body {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid darkgreen;
+    width: 800px;
+}
+
+thead {
+    text-align: center;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+tbody td {
+    border-bottom: 0.5px solid darkgreen;
+}
+
+span {
+    background-color: rgba(135, 206, 250, 0.5);
+}
